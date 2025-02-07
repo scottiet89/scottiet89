@@ -1,4 +1,4 @@
-<h1>Hi, I'm Scottie, an <a www.linkedin.com/in/scottie-thornton-070a3534b >IT Professional</a>☺</h1>
+<h1>Hi, I'm Scottie, an <a href="https://linkedin.com/in/scottie-thornton-070a3534b">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
